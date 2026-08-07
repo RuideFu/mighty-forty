@@ -1,4 +1,4 @@
-**How to Read a Caliper:**
+# **How to Read a Caliper:**
 
 Article: [How to Read Vernier Caliper Meaurements](https://hardwaresize.com/how-to-read-vernier-caliper-measurements/)
 
