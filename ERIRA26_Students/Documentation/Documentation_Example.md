@@ -30,7 +30,7 @@ clearly communicating important ideas.
 
 Today I took this picture. I also made this line of code. We isolated a problem with the thingamajig and fixed it using a whatsit. 
 
-[Definitly a photo of the system:](ERIRA26_Students/Photos/pointing.jpg)
+[Definitly a photo of the system:](../ERIRA26_Students/Photos/pointing.jpg)
 
 
 ## Wednesday August 12th
