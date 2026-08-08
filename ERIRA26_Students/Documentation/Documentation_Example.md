@@ -28,9 +28,33 @@ clearly communicating important ideas.
 
 ## Tuesday August 11th
 
-Today I took this picture. I also made this line of code. We isolated a problem with the thingamajig and fixed it using a whatsit. 
+Today I took this picture. 
 
-[Definitly a photo of the system:](../Photos/pointing.jpg)
+<p align="center">
+<img src="../Photos/pointing.jpg" width="300" alt="Definitely a photo of the system.">
+</p>
+
+I also added this code to the thing. 
+
+```python
+print("Hello, world!")
+```
+
+I also made these settings changed on the RPI. 
+
+```bash
+# Open the Raspberry Pi configuration tool
+sudo raspi-config
+
+# Example: enable the camera interface
+# Navigate to: Interface Options > Camera > Enable
+
+# Reboot to apply changes
+sudo reboot
+```
+
+We isolated a problem with the thingamajig and fixed it using a whatsit. 
+
 
 
 ## Wednesday August 12th
