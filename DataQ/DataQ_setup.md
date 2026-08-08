@@ -1,10 +1,14 @@
 # **Setting Up the DataQ for Linux Distributions**
 
-The DataQ is arguably one of the essential hardware components of the 40 ft system. It is an analog to digital converter which takes the flux signals coming from the telescope in two channels and converts them to a digital signal which can be used to determine source intensity. Without the flux, we would not be able to make images and would only be able to rely on the strip chart to identify sources. [Model DI-4108-E DataQ Product Page](https://www.dataq.com/products/di-4108-e/)
+[Model DI-4108-E DataQ Product Page](https://www.dataq.com/products/di-4108-e/)
+
+The DataQ is arguably one of the essential hardware components of the 40 ft system. It is an analog to digital converter which takes the flux signals coming from the telescope in two channels and converts them to a digital signal which can be used to determine source intensity. Without the flux, we would not be able to make images and would only be able to rely on the strip chart to identify sources. 
 
 ## **Wiring**
 
 The DataQ is fairly simple to set up, you need to wire the signal and ground into the source channels on the instrument. The threepio software looks for data coming from the first two source channels, so those should be the ports you use. The flux from the telescope is delivered by two coaxial cables, which you will need to both mount ports onto the side of your container *and* solder wires to the back of the ports to actually deliver a signal to the DataQ. 
+
+For soldering instructions for a port like this, go to '/Resources/Soldering_Tutorials.md'. Attached are some images of the ports themselves.
 
 The specifications document can be found in this folder, which contains much greater detail of how the device works and the dimensions of the device. 
 
