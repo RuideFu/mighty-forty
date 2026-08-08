@@ -1,6 +1,6 @@
 # **Introduction to Operating Systems**
 
-Here are a few operating system options for the Rpi 4b that I considered when designing the current system. There are of course other
+Here are a few operating system options for the Rpi 4b that I considered when designing the current system. There are of course other options you are welcome to explore, however you should consider the capabilities of the rpi4b before making a decision, or commit yourself to testing thoroughly. 
 
 | Name | Pros | Cons | Download |
 | --- | --- | --- | --- |
