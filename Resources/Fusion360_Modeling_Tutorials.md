@@ -6,6 +6,7 @@
 
 UNC Students have free access to the education version of Fusion 360. You will need to make an account using your school information. If your school does not offer free access to Fusion 360, you can sign up for a free trial through the website. If you do this, **BE SURE TO CANCEL THE TRIAL AT THE END OF THE WEEK.** Alternatively, you can download the FreeCAD software. FreeCAD is an opensource 3D Modeling software that works very well, it just lacks most of the quality of life features present with Fusion 360. On the upside, there is no project limit with FreeCAD. 
 
+For non-UNC students (or those without access to Fusion 360):
 [FreeCAD Installer Page: ](https://www.freecad.org/downloads.php)
 
 ## Prusa Slicer Setup:
