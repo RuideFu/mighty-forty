@@ -10,4 +10,4 @@ The specifications document can be found in this folder, which contains much gre
 
 ## **Setting Up for RpiOS and USB Mode**
 
-Setup instructions can be found in '
+Setup instructions can be found in 'di-4108-usb-data-acquisition.pdf'
