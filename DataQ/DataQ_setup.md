@@ -1,6 +1,6 @@
 # **Setting Up the DataQ for Linux Distributions**
 
-The DataQ is arguably one of the essential hardware components of the 40 ft system. It is an analog to digital converter which takes the flux signals coming from the telescope in two channels and converts them to a digital signal which can be used to determine source intensity. Without the flux, we would not be able to make images and would only be able to rely on the strip chart to identify sources. 
+The DataQ is arguably one of the essential hardware components of the 40 ft system. It is an analog to digital converter which takes the flux signals coming from the telescope in two channels and converts them to a digital signal which can be used to determine source intensity. Without the flux, we would not be able to make images and would only be able to rely on the strip chart to identify sources. [Model DI-4108-E DataQ Product Page](https://www.dataq.com/products/di-4108-e/)
 
 ## **Wiring**
 
