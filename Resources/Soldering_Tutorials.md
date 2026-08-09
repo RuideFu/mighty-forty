@@ -1,17 +1,34 @@
 # **Intro to Soldering**
 
+## **The Soldering Iron**
+
+We have two soldering irons, and they're simple to use, you just turn them on and set your temperature with the dial. Give it a minute to heat up to the target temp before you start working.
+
+Keeping them clean is important for getting good results. To clean the tip, dip it in soldering paste, then wipe it off on the mounted brass/Brillo pad. A clean tip heats more evenly and makes for better joints.
+
+These get extremely hot, so safety matters. Please follow these rules:
+
+- **NEVER** set the iron down on the table
+- **NEVER** look away from the iron while it's on, and make sure you are aware of your surroundings
+- **NEVER** leave the iron on while stepping away from your station
+- **DO NOT** touch the metal tip while it's hot
+- **ALWAYS** store the iron in its mount to cool, or in between solders
+
 ## **Wiring**
 
-Soldering two wires together is going to be a fundamental aspect of this project. A proper connection needs to be established in order for data or power or whatever to be properly transferred between items. 
+Soldering two wires together is one of the most fundamental skills you'll use in this project. The basic idea: you heat up the metal parts you want to join with a soldering iron, then melt a thin metal alloy (solder) onto the joint. The solder flows into the connection and hardens as it cools, creating a solid electrical bond, significantly more reliable than just twisting wires together or relying on tape. The quality of the connection is important, and we will test it with a multimeter. 
+
+[Basic Soldering Lesson 1 - "Solder & Flux"](https://www.youtube.com/watch?v=vIT4ra6Mo0s) by *peaceworldwide*
 
 ### **Desoldering**
 
-Mistakes happen all the time, and that is the truth with soldering as well. Luckily, cleaning up errors is fairly easy using solder wick. 
+Mistakes happen all the time, and soldering is no exception, a wrong wire, bad joint, need to swap a component, whatever. The good news is fixing it isn't a big deal, you just need some desoldering wick (a braided copper mesh.) You lay it over the old solder joint, press your hot iron on top, and the wick soaks up the melted solder like a sponge, pulling it away from the connection. A few seconds of heat and it lifts right off, leaving you a clean spot to start over.
+
 [Desoldering | Soldering Basics | Soldering for Beginners](https://www.youtube.com/watch?v=bG7yW9FigJA&t=15s) by *How Do You? DIY*
 
 ### **Shrink Wrap**
 
-Kind of a funny story, but we do not have a heat gun, so instead we are going to be using the side of the soldering iron to shrink the heat wrap. This look messy and can also appear kind of poor, but it is better than nothing!
+Shrink wrap is used to cover up exposed soldered joints and connections. Typically, shrink wrap is neatly 'shrunken' around a spot using a heat gun, but, kind of a funny story, but we do not have a heat gun, so instead we are going to be using the side of the soldering iron to shrink the heat wrap. This look messy, but it is better than nothing!
 
 ## **Ports**
 
