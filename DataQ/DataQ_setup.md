@@ -6,7 +6,7 @@ The DataQ is arguably one of the essential hardware components of the 40 ft syst
 
 ## **Wiring**
 
-The DataQ is fairly simple to set up, you need to wire the signal and ground into the source channels on the instrument. The threepio software looks for data coming from the first two source channels, so those should be the ports you use. The flux from the telescope is delivered by two coaxial cables, which you will need to both mount ports onto the side of your container *and* solder wires to the back of the ports to actually deliver a signal to the DataQ. 
+The DataQ is fairly simple to set up, you need to wire the signal and ground into the source channels on the instrument. The threepio software looks for data coming from the first two source channels, so those should be the ports you use. The flux from the telescope is delivered by two coaxial cables, which you will need to both mount ports onto the side of your container *and* solder wires to the back of the ports to actually deliver a signal to the DataQ. [Coax Cable Wikipedia Page.](https://en.wikipedia.org/wiki/Coaxial_cable)
 
 For soldering instructions for a port like this, go to '/Resources/Soldering_Tutorials.md'. Attached are some images of the ports themselves.
 
