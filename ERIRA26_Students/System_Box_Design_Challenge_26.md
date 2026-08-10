@@ -2,7 +2,7 @@ Requirements of the system:
 **Let me know if there are any dimensions that are missing and I will provide them, also let me know if any of these requirments are unclear**
 
 ### Overall 
-- Your design should be practical for both printing and usage. Your design should not have massive hanging components and should not be impractical or hard to access.
+- Your design should be practical for both printing and usage. Your design should not have massive hanging components and **should not be impractical or hard to access.** Any components printed should fit within the constraints of the printer, roughly 10 inches by 8 inches. If you are unsure if a piece will fit on the print bed, export it to prusa slicer to check.
 - Any ports or attached components should represent real dimensions of real products. You can use some of the wires we have in the lab here for reference, but for some ports we don't have extenders for, you should find a good product and list it in your documentation as the reason for the dimensions you chose.
 
 ### Exterior
