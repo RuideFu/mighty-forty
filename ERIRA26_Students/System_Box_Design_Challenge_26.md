@@ -18,7 +18,11 @@ Requirements of the system:
 ### Interior
 - Space to store the components each of the internal components and all the wiring associated. Keep in mind certain ports need to be welded after being set in place and the interior and exterior of the box should be designed with this in mind.
 - Keep in mind the space on the additional space needed on the sides of the ports used on the raspberry pi, the male ends of the wires should be comfortably inserted and not under any stress. 
-- Dimensional diagrams of the components are attached below.
+- Dimensional diagrams of the components are attached below:
+
+<p align="center">
+<img src="../Photos/41K3rq+EYtL_AC_.jpg" width="300" alt="Definitely a photo of the system.">
+</p>
 
 
 
