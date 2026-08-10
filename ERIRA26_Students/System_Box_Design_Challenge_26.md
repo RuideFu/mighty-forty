@@ -4,6 +4,7 @@ Requirements of the system:
 ### Overall 
 - Your design should be practical for both printing and usage. Your design should not have massive hanging components and **should not be impractical or hard to access.** Any components printed should fit within the constraints of the printer, roughly 10 inches by 8 inches. If you are unsure if a piece will fit on the print bed, export it to prusa slicer to check.
 - Any ports or attached components should represent real dimensions of real products. You can use some of the wires we have in the lab here for reference, but for some ports we don't have extenders for, you should find a good product and list it in your documentation as the reason for the dimensions you chose.
+- You will have to measure the dimensions of some aspects yourself.
 
 ### Exterior
 - 4 exterior HDMI ports. The rpi 4b and rpi 5 natively come with 2 USB 2.0 slots and 2 USB 3.0 slots, but the DataQ requires one of the 3.0 slots to function.
@@ -20,9 +21,13 @@ Requirements of the system:
 - Keep in mind the space on the additional space needed on the sides of the ports used on the raspberry pi, the male ends of the wires should be comfortably inserted and not under any stress. 
 - Dimensional diagrams of the components are attached below:
 
-<p align="center">
-<img src="../Photos/41K3rq+EYtL_AC_.jpg" width="300" alt="Definitely a photo of the system.">
-</p>
+[Link to a mechanical drawing of a Raspberry Pi 4b.](Photos/rpimechanical.pdf)
+
+![A mechanical drawing of the DataQ.](Photos/dataqdimesnions.png)
+
+![TTL to RS232 converter mechanical drawing.](Photos/TTLtoRS232.jpg)
+
+![A 5-volt Rpi fan mechanical drawing.](Photos/5Vfan.jpg)
 
 
 
