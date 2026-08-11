@@ -15,7 +15,7 @@ from the front:
 (the v is the keying notch)
 
 1. Red. Power +
-2. Blue. DB9 pin 5 & Power -
+2. Blue. DB9 pin 5 & Power - (Ground)
 3. Green. DB9 pin 3 (TX)
 4. Yellow. DB9 pin2 (RX)
 
