@@ -29,3 +29,5 @@ from the front:
 ## DB 9 wiring
 
 See the [how2 doc](.docs/How2_SOLAR232.pdf)
+
+![Power Port wiring](../ERIRA26_Students/Photos/philmore.jpg)
