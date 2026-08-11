@@ -2,6 +2,8 @@
 ### Caiden
 
 ```python
+# The Rpi was flashed with Rpi Desbian Trixie x64 on a 128gb sd card
+
 # Do to lack of microHDMI adapters, the rpi 5 has to be setup headless
 # The pi was formatted for SSH, the login command and password are located in the vault
 # The pi was setup for VNC and had its connection tested using Caiden's computer to get limited visual setup for formatting the rpi
