@@ -37,10 +37,3 @@ $ Sudo apt install code
 # Start vs code by simply typing 'code' into terminal
 ```
 
-```python
-# Installed VS Code for troubleshooting purposes
-$ Sudo apt update
-$ Sudo apt install code
-
-# Start vs code by simply typing 'code' into terminal
-```
