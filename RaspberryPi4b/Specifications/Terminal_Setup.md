@@ -4,7 +4,7 @@
 ```python
 # The Rpi was flashed with Rpi Desbian Trixie x64 on a 128gb sd card
 
-# Do to lack of microHDMI adapters, the rpi 5 has to be setup headless
+# Due to lack of microHDMI adapters, the rpi 5 has to be setup headless
 # The pi was formatted for SSH, the login command and password are located in the vault
 # The pi was setup for VNC and had its connection tested using Caiden's computer to get limited visual setup for formatting the rpi
 
@@ -37,5 +37,14 @@ $ Sudo apt update
 $ Sudo apt install code
 
 # Start vs code by simply typing 'code' into terminal
+```
+
+```python
+# Installed pySerial to interact with DataQ and Declinometer
+$ sudo apt update
+$ sudo apt install python3-pip 
+$ sudo apt install python3-serial -y
+
+# This ensures that later there should not be connectivity issues between the rpi and serial devices.
 ```
 
